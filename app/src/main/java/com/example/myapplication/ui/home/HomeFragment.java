@@ -1,4 +1,4 @@
-package rentMng.java.ui.home;
+package com.example.myapplication.ui.home;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import rentMng.java.databinding.FragmentHomeBinding;
+import com.example.myapplication.databinding.FragmentHomeBinding;
 
 public class HomeFragment extends Fragment {
 

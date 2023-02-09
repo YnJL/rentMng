@@ -1,4 +1,4 @@
-package rentMng.java.ui.notifications;
+package com.example.myapplication.ui.notifications;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import rentMng.java.databinding.FragmentNotificationsBinding;
+import com.example.myapplication.databinding.FragmentNotificationsBinding;
 
 public class NotificationsFragment extends Fragment {
 

@@ -1,4 +1,4 @@
-package rentMng.java.ui.dashboard;
+package com.example.myapplication.ui.dashboard;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
