@@ -13,7 +13,7 @@ import com.example.myapplication.ui.home.HomeFragment;
 import com.example.myapplication.ui.notifications.NotificationsFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivityBackup extends AppCompatActivity {
     BottomNavigationView bottomNavigationView;
     FragmentManager fragmentManager=getSupportFragmentManager();
     FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
